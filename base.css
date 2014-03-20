@@ -1,3 +1,5 @@
+/* Note: requires fonts.css, which loads webfonts from www.140proof.com */
+
 * {
   margin:   0;
   padding:  0;
@@ -16,12 +18,14 @@
   margin: 0 auto 60px auto;
 }
 
-.preamble {
+.preamble p {
+  font-family: SohoStd-Compressed;
   margin: 30px;
+  font-size: 50px;
+  color: #222;
 }
 
 a,a:visited {
-
   background-color:  #eee;
   border-radius:     0.3em;
   color:             #111;
