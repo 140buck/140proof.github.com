@@ -26,12 +26,13 @@
 }
 
 .links {
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
 }
 
 a,a:visited {
   background-color:  #eee;
+  border: 2px solid #ccc;
   border-radius:     0.3em;
   color:             #111;
   display:           inline-block;
@@ -39,12 +40,17 @@ a,a:visited {
   margin:            0 auto 0.5em auto;
   padding:           0.4em;
   text-decoration:   none;
-  width:             220px;
+  width:             260px;
+  text-align:        left;
 }
 
 a:hover {
-  color: red;
-  background-color:  #ddd;
+  color: #0BB3D7;
+  background-color:  #fbfbfb;
+}
+
+.links > a:last-child {
+  text-align: center;
 }
 
 .logo {
@@ -52,3 +58,4 @@ a:hover {
   width: 256px;
   opacity: 0.5;
 }
+

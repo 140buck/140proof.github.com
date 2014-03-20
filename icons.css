@@ -1,0 +1,55 @@
+/* icon */
+@font-face{ /* for IE */
+  font-family:'ProofIcon';
+  src:url(http://www.140proof.com/fonts/140sprite.eot);
+}
+@font-face { /* for non-IE */
+  font-family: 'ProofIcon';
+  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/140sprite.woff') format('woff'), url('http://www.140proof.com/fonts/140sprite.ttf') format('truetype'), url('http://www.140proof.com/fonts/140sprite.svg#webfont') format('svg');
+}
+
+i[class^=icon],.icon-book,.icon-glasses,.icon-mail,.icon-news,.icon-target,.icon-briefcase,.icon-tshirt,.icon-tv,.icon-ellipses,.icon-eyeball,.icon-at,.icon-phone,.icon-fax,.icon-twitter,.icon-github,.icon-toolbox,.icon-adunit,.icon-puzzle,.icon-sunshine,.icon-backarrow,.icon-megaphone,.icon-beaker,.icon-signup,.icon-video,.icon-lock,.icon-wand,.icon {
+  font: normal normal normal 100% ProofIcon;
+  font-family: ProofIcon;
+  font-size: 140%;
+}
+
+div.links > a > i {
+  display: inline-block;
+}
+
+.icon-book:after      { content: 'A' }
+.icon-glasses:after   { content: 'B' }
+.icon-mail:after      { content: 'C' }
+.icon-news:after      { content: 'D' }
+.icon-target:after    { content: 'E' }
+.icon-briefcase:after { content: 'F' }
+.icon-tshirt:after    { content: 'G' }
+.icon-tv:after        { content: 'H' }
+.icon-ellipses:after  { content: 'I' }
+.icon-eyeball:after   { content: 'J' }
+.icon-at:after        { content: 'K' }
+.icon-phone:after     { content: 'L' }
+.icon-fax:after       { content: 'M' }
+.icon-twitter:after   { content: 'N' }
+.icon-github:after    { content: 'O' }
+.icon-toolbox:after   { content: 'P' }
+.icon-adunit:after    { content: 'Q' }
+.icon-puzzle:after    { content: 'R' }
+.icon-sunshine:after  { content: 'S' }
+.icon-backarrow:after { content: 'T' }
+.icon-megaphone:after { content: 'U' }
+.icon-beaker:after    { content: 'V' }
+.icon-signup:after    { content: 'W' }
+.icon-video:after     { content: 'X' }
+.icon-lock:after      { content: 'Y' }
+.icon-wand:after      { content: 'Z' }
+.icon-home:after      { content: 'a' }
+
+.ProofIcon {
+  font-family: ProofIcon;
+  font-size: 200%;
+  line-height: 1.0em;
+  width: 600px;
+  margin: 0 auto;
+}

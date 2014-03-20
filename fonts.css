@@ -43,13 +43,3 @@
   font-family: 'SohoStd-BoldCompressed';
   src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/sohostdboldcompressed.woff') format('woff'), url('http://www.140proof.com/fonts/sohostdboldcompressed.ttf') format('truetype'), url('http://www.140proof.com/fonts/sohostdboldcompressed.svg#webfont') format('svg');
 }
-
-/* icon */
-@font-face{ /* for IE */
-  font-family:'ProofIcon';
-  src:url(http://www.140proof.com/fonts/140sprite.eot);
-}
-@font-face { /* for non-IE */
-  font-family: 'ProofIcon';
-  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/140sprite.woff') format('woff'), url('http://www.140proof.com/fonts/140sprite.ttf') format('truetype'), url('http://www.140proof.com/fonts/140sprite.svg#webfont') format('svg');
-}
