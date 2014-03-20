@@ -1,0 +1,31 @@
+* {
+  margin:   0;
+  padding:  0;
+}
+
+.page {
+  width:        800px;
+  margin:       0 auto;
+  font:         24px/36px helvetica sans-serif;
+  font-weight:  bold;
+  white-space:  pre;
+  text-align: center;
+}
+
+.logo {
+  height: 256px;
+  width: 256px;
+  opacity: 0.5;
+}
+
+a,a:visited {
+  text-decoration: none;
+  display: block;
+  padding: 0.5em;
+  color: #111;
+  background-color: #ddd;
+}
+
+a:hover {
+  color: red;
+}
