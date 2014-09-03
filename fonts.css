@@ -1,45 +1,46 @@
 /* soho */
 @font-face{ /* for IE */
   font-family:'SohoStd-Light';
-  src:url(http://www.140proof.com/fonts/sohostdlight.eot);
+  src:url(//www.140proof.com/fonts/sohostdlight.eot);
 }
 @font-face { /* for non-IE */
   font-family: 'SohoStd-Light';
-  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/sohostdlight.woff') format('woff'), url('http://www.140proof.com/fonts/sohostdlight.ttf') format('truetype'), url('http://www.140proof.com/fonts/sohostdlight.svg#webfont') format('svg');
+  src:url(http://:/) format("No-IE-404"),url('//www.140proof.com/fonts/sohostdlight.woff') format('woff'), url('//www.140proof.com/fonts/sohostdlight.ttf') format('truetype'), url('//www.140proof.com/fonts/sohostdlight.svg#webfont') format('svg');
 }
 
 @font-face{ /* for IE */
   font-family:'SohoStd-LightCompressed';
-  src:url(http://www.140proof.com/fonts/sohostdlightcompressed.eot);
+  src:url(//www.140proof.com/fonts/sohostdlightcompressed.eot);
 }
 @font-face { /* for non-IE */
   font-family: 'SohoStd-LightCompressed';
-  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/sohostdlightcompressed.woff') format('woff'), url('http://www.140proof.com/fonts/sohostdlightcompressed.ttf') format('truetype'), url('http://www.140proof.com/fonts/sohostdlightcompressed.svg#webfont') format('svg');
+  src:url(http://:/) format("No-IE-404"),url('//www.140proof.com/fonts/sohostdlightcompressed.woff') format('woff'), url('//www.140proof.com/fonts/sohostdlightcompressed.ttf') format('truetype'), url('//www.140proof.com/fonts/sohostdlightcompressed.svg#webfont') format('svg');
 }
 
 @font-face{ /* for IE */
   font-family:'SohoStd-MediumCompressed';
-  src:url(http://www.140proof.com/fonts/sohostdmediumcompressed.eot);
+  src:url(//www.140proof.com/fonts/sohostdmediumcompressed.eot);
 }
 @font-face { /* for non-IE */
   font-family: 'SohoStd-MediumCompressed';
-  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/sohostdmediumcompressed.woff') format('woff'), url('http://www.140proof.com/fonts/sohostdmediumcompressed.ttf') format('truetype'), url('http://www.140proof.com/fonts/sohostdmediumcompressed.svg#webfont') format('svg');
+  src:url(http://:/) format("No-IE-404"),url('//www.140proof.com/fonts/sohostdmediumcompressed.woff') format('woff'), url('//www.140proof.com/fonts/sohostdmediumcompressed.ttf') format('truetype'), url('//www.140proof.com/fonts/sohostdmediumcompressed.svg#webfont') format('svg');
 }
 
 @font-face{ /* for IE */
   font-family:'SohoStd-Bold';
-  src:url(http://www.140proof.com/fonts/sohostdbold.eot);
+  src:url(//www.140proof.com/fonts/sohostdbold.eot);
 }
 @font-face { /* for non-IE */
   font-family: 'SohoStd-Bold';
-  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/sohostdbold.woff') format('woff'), url('http://www.140proof.com/fonts/sohostdbold.ttf') format('truetype'), url('http://www.140proof.com/fonts/sohostdbold.svg#webfont') format('svg');
+  src:url(http://:/) format("No-IE-404"),url('//www.140proof.com/fonts/sohostdbold.woff') format('woff'), url('//www.140proof.com/fonts/sohostdbold.ttf') format('truetype'), url('//www.140proof.com/fonts/sohostdbold.svg#webfont') format('svg');
 }
 
 @font-face{ /* for IE */
   font-family:'SohoStd-BoldCompressed';
-  src:url(http://www.140proof.com/fonts/sohostdboldcompressed.eot);
+  src:url(//www.140proof.com/fonts/sohostdboldcompressed.eot);
 }
 @font-face { /* for non-IE */
   font-family: 'SohoStd-BoldCompressed';
-  src:url(http://:/) format("No-IE-404"),url('http://www.140proof.com/fonts/sohostdboldcompressed.woff') format('woff'), url('http://www.140proof.com/fonts/sohostdboldcompressed.ttf') format('truetype'), url('http://www.140proof.com/fonts/sohostdboldcompressed.svg#webfont') format('svg');
+  src:url(http://:/) format("No-IE-404"),url('//www.140proof.com/fonts/sohostdboldcompressed.woff') format('woff'), url('//www.140proof.com/fonts/sohostdboldcompressed.ttf') format('truetype'), url('//www.140proof.com/fonts/sohostdboldcompressed.svg#webfont') format('svg');
 }
+
